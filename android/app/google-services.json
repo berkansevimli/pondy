@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577964620277",
+    "project_id": "pondy-21290",
+    "storage_bucket": "pondy-21290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577964620277:android:71014dfed4bd8763a448bc",
+        "android_client_info": {
+          "package_name": "com.rexarsoft.pondy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577964620277-kgno2pupsif5gql723nn7r0egnb1dn57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBwbleyMPj67VHTPZ1xfXohll35H6ON7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577964620277-kgno2pupsif5gql723nn7r0egnb1dn57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
